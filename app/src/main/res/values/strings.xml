@@ -3,6 +3,8 @@
 
     <string name="app_name">PrjSunshine</string>
     <string name="hello_world">Hello world!</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
 
 </resources>
